@@ -1,0 +1,3 @@
+# Facial Expression Classifier with Google CoLab
+
+This project utilizes the FER2013 dataset with instances of images classified under 7 different facial expressions. To run this project, download the dataset on Kaggle. 
