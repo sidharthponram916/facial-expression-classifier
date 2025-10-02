@@ -6,7 +6,6 @@ Each image (48×48 grayscale) is classified into one of seven emotions: Angry, D
 ---
 
 ## Project Premise
-The goal was to teach a computer how to “read” facial expressions.  
 Using a CNN built with **TensorFlow/Keras**, the model learns emotion patterns from thousands of labeled faces — predicting how someone feels from a single photo.
 
 ---
