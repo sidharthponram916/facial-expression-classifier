@@ -1,4 +1,4 @@
-# Facial Expression Recognition (FER2013)
+# Facial Expression Recognition
 
 A deep learning project that detects human emotions from facial images using the **FER2013 dataset**.  
 Each image (48×48 grayscale) is classified into one of seven emotions: Angry, Disgust, Fear, Happy, Sad, Surprise, or Neutral.
