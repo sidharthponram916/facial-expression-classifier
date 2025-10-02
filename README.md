@@ -19,5 +19,5 @@ Using a CNN built with **TensorFlow/Keras**, the model learns emotion patterns f
 ---
 
 ## Summary
-The model successfully classifies facial expressions with solid accuracy and visualizes results dynamically during prediction.  
+The model successfully classifies facial expressions with ~70% accuracy and visualizes results dynamically during prediction.  
 Future improvements include adding data augmentation and deploying it as a live emotion recognition app.
